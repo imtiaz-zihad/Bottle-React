@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "category": "Water Bottle",
+      "name": "Eco-Friendly Water Bottle",
+      "seller": "GreenTech",
+      "price": 12.99,
+      "rating": 4.7,
+      "stock": 120,
+      "img": "https://dummyimage.com/600x400/000/fff&text=Water+Bottle"
+    },
+    {
+      "id": 2,
+      "category": "Sports Bottle",
+      "name": "Insulated Sports Bottle",
+      "seller": "SportMax",
+      "price": 24.50,
+      "rating": 4.5,
+      "stock": 80,
+      "img": "https://i.imgur.com/U6VqOYU.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Thermo Bottle",
+      "name": "Stainless Steel Thermo Bottle",
+      "seller": "ThermoKing",
+      "price": 35.75,
+      "rating": 4.8,
+      "stock": 150,
+      "img": "https://i.imgur.com/ZMYYe0T.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Glass Bottle",
+      "name": "Elegant Glass Bottle",
+      "seller": "PureGlass",
+      "price": 18.30,
+      "rating": 4.2,
+      "stock": 60,
+      "img": "https://i.imgur.com/FeLwaGO.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Collapsible Bottle",
+      "name": "Foldable Travel Bottle",
+      "seller": "TravelEase",
+      "price": 15.99,
+      "rating": 4.6,
+      "stock": 200,
+      "img": "https://i.imgur.com/GIqVfgM.jpg"
+    }
+  ]
